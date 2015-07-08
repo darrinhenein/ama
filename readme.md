@@ -4,13 +4,11 @@
 
 I get a lot of questions by email. This way anyone can read the answer!
 
-Anything means _anything_ - Personal questions. Money. Work. Life. Design. Code. Babies. Whatever.
+Anything means _anything_ - Personal questions. Work. Life. Design. Code. Video Games and Game Development. Whatever.
 
-I am the Design Director for Mozilla Foundation. I design, write, speak, hire, nitpick, laugh and grumble. 
+I am the Design Lead for Firefox Mobile at Mozilla. I design, write, [make video games](http://lastronautgame.com) and love to read. I'm also a father and husband.
 
-I'm [@cassiemc](http://twitter.com/cassiemc) on twitter, I blog at [cassiemcdaniel.com/blog](http://www.cassiemcdaniel.com/blog). 
-
-I co-founded [Women&&Tech](http://womenandtech.com) and [Paris Lectures](http://www.parislectures.com) and have written a bunch of things including design articles for *A List Apart*, *Smashing Magazine*, *The Pastry Box*, *Offscreen* [and more](http://www.cassiemcdaniel.com).
+I'm [@darrinhenein](http://twitter.com/darrinhenein) on twitter, I write at [darrinhenein.com](http://www.darrinhenein.com).
 
 ### Links
 
